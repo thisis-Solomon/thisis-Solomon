@@ -1,4 +1,14 @@
 ### Hi there 👋
+#### Solomon here, a Front-End Developer
+
+Javascript | Reactjs | React-Native.  
+🌱 I’m currently learning nodejs, expressjs and mongoDB.  
+I’m looking to collaborate on any projects 
+inline with my skill set which are HTML, CSS, JS, 
+and the above mentioned so that i keep improving each day. 
+Music && movies not only but am a 
+Specialist teacher for (Deaf)... '
+you need to keep moving forward, no matter how low the RAM u've
 
 <!--
 **thisis-Solomon/thisis-Solomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
