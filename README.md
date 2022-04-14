@@ -1,12 +1,12 @@
-### Hi there 👋
-#### Solomon here, a Front-End Developer
+# Hi there 👋
+## Solomon here, a Front-End Developer
 
 Javascript | Reactjs | React-Native.  
 🌱 I’m currently learning `nodejs`, `expressjs` and `mongoDB`.  
 🤔 I’m looking to collaborate on any projects 
 inline with my skill set which are `HTML`, `CSS`, `JS`,
 and the above mentioned so that i keep improving each day.
-⚡ Fun fact: Specialist teacher graduate 😄 ( Specail Education) Music && movies lover.
+⚡ Fun fact: Specialist teacher graduate 😄 ( Special Education) Music && movies lover.
 "you need to keep moving forward, no matter how low the RAM u've" ~ Solomon
 
 <!--
