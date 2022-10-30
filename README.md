@@ -1,5 +1,5 @@
 # Hi there 👋
-## Solomon, a Front-End Developer
+## I'm Solomon, Front-End Developer.
 
 Javascript | Reactjs | React-Native.  
 🌱 I’m currently learning `nodejs`, `expressjs` and `mongoDB`.  
