@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript && NextJS**
 
-- 👨‍💻 All of my finished projects are available at [solomonnjobvu.netlify.app](solomonnjobvu.netlify.app)
+- 👨‍💻 All of my finished projects are available at my [solomonnjobvu.netlify.app](Portfilio)
 
 - 💬 Ask me about **React,Vue and Svelte**
 
