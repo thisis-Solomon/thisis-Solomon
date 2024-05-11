@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Solomon Njobvu</h1>
-<h3 align="center">A passionate frontend developer from Zambia</h3>
+<h1>Hi 👋, I'm Solomon Njobvu</h1>
+<h2>A passionate frontend developer</h2>
 
 - 🔭 I’m currently working on [Zimba](zimbacine.vercel.app)
 
 - 🌱 I’m currently learning **Typescript && NextJS**
 
-- 👨‍💻 All of my finished projects are available at my [solomonnjobvu.netlify.app](Portfilio)
+- 👨‍💻 All of my finished projects are available at my [Portfolio](v2-thisis-solomon.vercel.app)
 
 - 💬 Ask me about **React,Vue and Svelte**
 
-- ⚡ Quote **You need to keep moving forward, no matter how low the RAM You've.**
+- ⚡ Quote "You need to keep moving forward, no matter how low the RAM You've."
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
